@@ -28,7 +28,7 @@ If you dont have access to a multicolor printer, yoou can import all stl in your
 
 ## Front pannel
 Printing time is about 1h on the default print speed.
-<img src="./front_pannel.png">
+<img src="./face_pannel.png">
 
 ## Enclosure
 Printing time is about 6h on the default print speed with 3 perimiters, 8% infill and support enabled.
