@@ -23,7 +23,8 @@ This is a remote using an arduino nano board and an nRF24L01 radio module to tri
 - perfboard
 
 # 3D printing
-All parts have been printed with multicolor for best results on a Prusa XL 5 toools.
+All parts have been printed with multicolor for best results on a Prusa XL 5 tools.
+If you dont have access to a multicolor printer, yoou can import all stl in your slicer and print with the same color.
 
 ## Front pannel
 Printing time is about 1h on the default print speed.
