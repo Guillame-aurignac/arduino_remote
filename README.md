@@ -3,7 +3,7 @@ This is a remote using an arduino nano board and an nRF24L01 radio module to tri
 
 # Hardware
 - 1x arduino nano board
-- 1x nRF24L01 radioo module
+- 1x nRF24L01 radio module
 - 1x 5v 18650 UPS module
 - 1x 5mm frosted flat top green led
 - 2x 5mm frosted flat top amber led
